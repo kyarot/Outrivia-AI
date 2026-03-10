@@ -2,3 +2,12 @@ fastapi
 uvicorn
 pydantic
 python-multipart
+supabase
+mistralai
+websockets
+httpx
+pydantic-settings
+python-dotenv
+google-search-results
+apify-client
+resend
